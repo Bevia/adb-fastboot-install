@@ -1,5 +1,5 @@
 # adb-fastboot-install
-Automatically exported from code.google.com/p/adb-fastboot-install
+How to automatically install adb fastboot
 How to Install ADB and Fastboot on OS X -->
 
 	•	Open Terminal
