@@ -1,5 +1,4 @@
 # adb-fastboot-install
-How to automatically install adb fastboot
 How to Install ADB and Fastboot on OS X -->
 
 	•	Open Terminal
